@@ -19,4 +19,8 @@ Quite possible Links, and Q# will be also in use.
 
 The project is running. Some parts are in just a draft form. 
 
-See the draft of the first part: "Name_Spaces.ipynb"  
+See the draft of the first part:
+"Name_Spaces.ipynb"
+
+Some interesting facts about coronavirus, see: 
+"Coronavirus_key_factors.ipynb"
