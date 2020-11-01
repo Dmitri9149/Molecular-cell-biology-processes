@@ -1,6 +1,10 @@
 ### Moving Cells. 
 #### Namespaces. 
 
+THIS IS INITIAL DRAWT , PLEASE SEE 
+
+
+
 In the drawing ..... we may see the hypothetical representation of human (or an animal) name space. It is done from the point of view of immune system cells, like lymphocytes. 
 
 We think about our body as 2-D surface partitioned into unintersecting area. The Blood. This area is like a 'bus' in computer motherboard: all 'organs':  Lung, Skin, Liver.... are 'swimming' in the Blood and a lymphocite may 'swim' to any of organs from the Blood. 
