@@ -1,7 +1,8 @@
 ### Moving Cells. 
 #### Namespaces. 
 
-THIS IS INITIAL DRAWT , PLEASE SEE 
+THIS IS INITIAL DRAWT , PLEASE SEE THE NOTEBOOK 
+https://github.com/Dmitri9149/Molecular-cell-biology-processes/blob/main/Name_Spaces.ipynb
 
 
 
